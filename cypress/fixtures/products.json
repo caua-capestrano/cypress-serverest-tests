@@ -1,0 +1,20 @@
+{
+  "validProduct": {
+    "nome": "Produto Teste E2E",
+    "preco": "100",
+    "descricao": "Produto criado durante teste automatizado",
+    "quantidade": "10"
+  },
+  "updatedProduct": {
+    "nome": "Produto Atualizado",
+    "preco": "150",
+    "descricao": "Produto editado durante teste automatizado",
+    "quantidade": "5"
+  },
+  "secondProduct": {
+    "nome": "Segundo Produto",
+    "preco": "50",
+    "descricao": "Segundo produto para testes",
+    "quantidade": "20"
+  }
+}

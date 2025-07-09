@@ -1,0 +1,18 @@
+{
+  "validUser": {
+    "nome": "Qauã",
+    "email": "qa.caua@teste.com.br",
+    "password": "123",
+    "administrador": true
+  },
+  "newUser": {
+    "nome": "Novo Usuario",
+    "email": "novo.usuario@ambevtech.com",
+    "password": "senha123",
+    "administrador": false
+  },
+  "invalidUser": {
+    "email": "usuario.inexistente@test.com",
+    "password": "senhaerrada"
+  }
+}
